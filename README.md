@@ -18,4 +18,6 @@
 
 
 
-<p><img align="center" src="![Jayprajapati19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayprajapati19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" alt="jay" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayprajapati19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jay" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayprajapati19&theme=vue-dark&hide_border=true" alt="jay" /></p>
