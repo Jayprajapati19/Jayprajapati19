@@ -6,7 +6,7 @@
 <h3 align="center">A Passionate Web Developer from India</h3>
 
 <p align="center">
-  <a href="https://jayprajapati.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://prajapati-jay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jay-prajapati-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@jayp37679"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
