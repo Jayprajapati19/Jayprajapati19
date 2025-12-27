@@ -17,7 +17,7 @@
 - 🌱 Currently learning **AI/ML**
 - 👨‍💻 My projects are available at [My Portfolio](https://prajapati-jay.vercel.app/)
 - 📝 I write articles on [Medium](https://medium.com/@jayp37679)
-- 📧 Reach me at **jayp37679@gmail.com**
+- 📧 Reach me at ** jayprajapati3117@gmail.com**
 - ⚡ Fun fact: I love **open-source contributions & problem-solving**.
 
 ---
