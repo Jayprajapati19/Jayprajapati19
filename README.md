@@ -7,25 +7,23 @@
 
 <p align="center">
   <a href="https://prajapati-jay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jay-prajapati-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/jay-prajapati-cs2027"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@jayp37679"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 **About Me**
-- 🌱 Currently learning **AI/ML**
-- 👨‍💻 My projects are available at [My Portfolio](https://prajapati-jay.vercel.app/)
-- 📝 I write articles on [Medium](https://medium.com/@jayp37679)
-- 📧 Reach me at **jayprajapati3117@gmail.com**
-- ⚡ Fun fact: I love **open-source contributions & problem-solving**.
+# 💫 About Me:
+🌱 Currently building AI agents, backend systems, and full-stack applications<br>🎯 Goal: Create products that people actually use and benefit from<br>💡 Interested in AI, automation, developer tools, and scalable architectures<br>🚀 Love turning ideas into production-ready software<br>⚡ Debugging is easier after saying "this should work" at least three times
+
+
 
 ---
 
 ## 🔗 **Connect with Me**
 <p align="center">
   <a href="https://twitter.com/jayprajapati193"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" /></a>
-  <a href="https://www.linkedin.com/in/jay-prajapati-/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" /></a>
+  <a href="www.linkedin.com/in/jay-prajapati-cs2027"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" /></a>
   <a href="https://leetcode.com/prajapati_jay/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" /></a>
   <a href="https://discord.com/channels/@me/1262099606037205073"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" /></a>
 </p>
@@ -79,14 +77,3 @@
 </div>
 
 --- -->
-
-## 📜 **GitHub Trophies**
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jayprajapati19&theme=darkhub&margin-w=15&margin-h=15" />
-  </a>
-</p>
-
----
-
-
